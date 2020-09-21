@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint, Datasheet
+U1 ,1,"74HC590","","https://assets.nexperia.com/documents/data-sheet/74HC590.pdf"
+U4 ,1,"IS61C5128AL-10KLI","Package_SO:SOJ-36_10.16x23.49mm_P1.27mm","http://www.issi.com/WW/pdf/61-64C5128AL.pdf"
+U5 U7 U13 U3 U10 U2 ,6,"74AHC374","","https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT374.pdf"
+U6 U12 ,2,"74LS157","","http://www.ti.com/lit/gpn/sn74LS157"
+U8 U11 ,2,"74LS244","","http://www.ti.com/lit/gpn/sn74LS244"
+U9 ,1,"74LS377","","http://www.ti.com/lit/gpn/sn74LS377"
